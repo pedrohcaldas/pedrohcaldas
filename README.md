@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Pedro Henrique
 
-<!--
-**pedrohcaldas/pedrohcaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação
+🚀 Estudando React, TypeScript e Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Estou aprendendo desenvolvimento web e criando projetos para evoluir minhas habilidades.
+
+---
+
+## 🛠️ Tecnologias
+
+* React
+* TypeScript
+* Python
+* HTML
+* CSS
+
+---
+
+---
+
+## 🎯 Objetivo
+
+Conseguir minha primeira oportunidade como desenvolvedor.
+
+---
+
+## 📫 Contato
+
+* 📧 Email: [phccaldas@gmail.com](mailto:phccaldas@gmail.com)
